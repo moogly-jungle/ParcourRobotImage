@@ -5,7 +5,6 @@ from tensorflow.keras import layers
 import matplotlib.pyplot as plt
 import sys
 import os
-import pickle
 import pandas
 
 # taille des images du jeu de données
